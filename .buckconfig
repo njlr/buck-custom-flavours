@@ -1,0 +1,7 @@
+[cxx]
+  cppflags = -O3
+  cxxppflags = -O3
+
+[cxx#debug]
+  cppflags = -g -DDEBUG
+  cxxppflags = -g -DDEBUG
